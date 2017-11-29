@@ -1,0 +1,58 @@
+li {
+	font-style: italic;
+}	
+span {
+	color: green;
+	font-style: 15px;
+}
+a {
+	font-weight: bold;
+	text-decoration: none;
+}
+#mainHeader {
+	font-size: 40px;
+    color: white;
+}
+.firstClass {
+	font-size: 20px;
+	color: green;
+}
+.secondeClass {
+	font-weight: bold;
+}
+div {
+	display: block;
+}
+h3 {
+	font-weight: bold;
+	font-size: 30px;
+}
+.markClass {
+    width: 420px;
+    height: 380px;
+    float: left;
+    width: 50%;
+    border: 2px solid #000;
+}
+.benClass {
+	height: 50px;
+	background-color: royalblue;
+}
+.danClass {
+	width: 380px;
+	height: 335px;
+	border: 2px solid #000;
+	float: left;
+    width: 50%;
+    background-color: bisque;
+}
+.man {
+	border: 2px solid #000;
+	float: left;
+    width: 50%;
+    background-color: bisque;
+}
+.table{
+	border: 2px solid #000;
+    background-color: bisque;
+}
